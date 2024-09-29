@@ -17,5 +17,7 @@ _site/
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 
-# Ignore .ds_store files
+# MacOS files
+**/.DS_Store
 .DS_Store
+.idea
